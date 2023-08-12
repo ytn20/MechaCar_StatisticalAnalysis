@@ -1,5 +1,10 @@
 # MechaCar_StatisticalAnalysis
 
+Tools and Data Sources
+- Data Source: MechaCar_mpg.csv and Suspension_Coil.csv
+- Tools: MechaCarChallenge.RScript, ggplot2, tidyverse, dplyr
+- Software: R, RStudio, Excel
+
 ## Technical Analysis MechaCar dataset
 ### Linear Regression to Predict MPG
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -37,7 +42,3 @@ Lot 3 T-test results
 
 ## Study Design: MechaCar vs Competition
 MechaCar is performing well compared to it's competition. In order for MechaCar to gain more consumers they would need to improve their horse power, safety ratings as well as minimize their maintenance costs so that more consumers would be interested in purchasing a vehicle from them rather than their competition. 
-
-
-
-
